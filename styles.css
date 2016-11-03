@@ -1,0 +1,37 @@
+
+.jumbotron {
+	text-align: left;
+	margin: 2% 8%;
+	padding-left: 3%;
+	background-color: #d9dde2;
+}
+
+button {
+	margin-top: 3%;
+}
+
+#tag {
+	margin-bottom: 3%;
+}
+
+.input-group {
+	padding: 2%;
+	margin-left: 5%;
+}
+
+#containerInput {
+	background-color: #d9dde2;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+#form-gif-request {
+	padding: 3%;
+}
+
+.error {
+	color: red;
+	padding-bottom: 2%;
+	text-align: left;
+}
